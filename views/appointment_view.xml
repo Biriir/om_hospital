@@ -34,7 +34,7 @@
             </activity>
         </field>
     </record>
-    <record id="view_hospital_appointment_calendar" model="ir.ui.view">
+   <!-- <record id="view_hospital_appointment_calendar" model="ir.ui.view">
         <field name="name">hospital.appointment.calendar</field>
         <field name="model">hospital.appointment</field>
         <field name="arch" type="xml">
@@ -48,7 +48,7 @@
 
             </calendar>
         </field>
-    </record>
+    </record> -->
 
 
 

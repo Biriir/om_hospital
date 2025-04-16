@@ -28,9 +28,9 @@
         <field name="target">inline</field>
     </record>
 
-    <menuitem id="menu_technical" name="Technical" sequence="110" parent="menu_hospital_root">
+   <!-- <menuitem id="menu_technical" name="Technical" sequence="110" parent="menu_hospital_root">
         <menuitem id="menu_playground" name="Play Ground" action="action_playground" sequence="10"/>
-    </menuitem>
+    </menuitem> -->
 <!--&lt;!&ndash;&lt;!&ndash;&ndash;&gt; also we can create it without parent  as seen below&ndash;&gt;-->
 <!--    <menuitem id="menu_technical" name="Technical" sequence="110">-->
 <!--        <menuitem id="menu_playground1" name="Play Ground1" sequence="10">-->
